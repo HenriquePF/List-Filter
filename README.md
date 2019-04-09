@@ -1,2 +1,2 @@
 # List-Filter
-List and Filter
+List, filter and predicate.
